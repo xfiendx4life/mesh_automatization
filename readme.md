@@ -5,6 +5,7 @@
 ## Установка
 1. Скачайте файлы из данного репозитория
 2. Распакуйте
+3. Установите библиотеку `selenium` для python `pip install selenium`. Ссылка https://selenium-python.readthedocs.io/installation.html
 3. Создайте текстовый файл `config.txt` в этой же папке
 4. В файл `config.txt` запишите:
     + на первой строке ваш логин МЭШ,
